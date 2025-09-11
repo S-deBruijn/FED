@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Salomé de Bruijn
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Ik kies voor een responsive design
  
 </details>
 
@@ -36,15 +36,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.ticketswap.nl/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina: Home pagina
+  <img src="![alt text](<images/FireShot Capture 001 - TicketSwap - Snelle, veilige en eerlijke ticketdoorverkoop - Snel t_ - [www.ticketswap.nl].png>)" width="375px" alt="de hoofdpagina van de ticketswap app">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="![alt text](<images/FireShot Capture 002 - Parels van de Stad Festival 2025 - Koop en verkoop tickets - TS_ - [www.ticketswap.nl].png>)" width="375px" alt="detailpagina van een festival">
  
 </details>
 
@@ -56,7 +57,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: 
+  Screenreader:
+  - Je kunt je goed navigeren door de website met tab toets.
+  - Links en knoppen geven aan waar ze naartoe navigeren met een duidelijke beschrijving dat het linkt naar een volgende pagina.
+  - Er wordt uitgelegd bij knoppen hoe je deze kunt gebruiken.
+  - Bij een lange carousel moet je de hele carousel afgaan voordat je verder kunt op de pagina.
+  - Hij herkent de "Zoek je je favoriete artiesten" van spotify niet en leest dit niet voor.
+  - In sommige teksten staat een verticale lijn in de titel bijvoorbeeld: Circoloco | 2025. 
+  De screenreader leest dit dan ook hardop voor als " verticale lijn"
+  - Doordat er in de beschrijving van afbeeldingen niet beschrijft als afbeeldingen klinkt het alsof hij de locatie 2 keer 
+  voorleest.
+
+
+Krijg je informatieve feedback bij interactieve elementen?
+
 
 </details>
 
@@ -68,7 +83,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="images/breakdownschets.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
